@@ -4,7 +4,7 @@
 
 以下是展示效果
 
-<img src="Demo/auc2-active-listing.gif" width=80%/>
+![2WXDW.gif](https://s1.328888.xyz/2022/04/22/2WXDW.gif)
 
 ### 创建新产品
 
