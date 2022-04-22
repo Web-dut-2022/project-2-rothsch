@@ -8,7 +8,7 @@
 
 ### 创建新产品
 
-<img src="Demo/auc1-create-new-listing.gif" width=80%/>
+![2Wf3y.gif](https://s1.328888.xyz/2022/04/22/2Wf3y.gif)
 
 ### 贩卖产品
 
